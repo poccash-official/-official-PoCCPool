@@ -1,2 +1,2 @@
-# PoCPool
+# PoCCPool
 PoCCash  Mining Pool Software
